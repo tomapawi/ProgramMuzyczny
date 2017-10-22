@@ -1,0 +1,17 @@
+C:\Users\Oem\AppData\Local\Temporary Projects\Muzyka\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Oem\AppData\Local\Temporary Projects\Muzyka\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Oem\AppData\Local\Temporary Projects\Muzyka\obj\x86\Debug\Muzyka.csproj.ResolveComReference.cache
+C:\Users\Oem\AppData\Local\Temporary Projects\Muzyka\obj\x86\Debug\Muzyka.Form1.resources
+C:\Users\Oem\AppData\Local\Temporary Projects\Muzyka\obj\x86\Debug\Muzyka.Properties.Resources.resources
+C:\Users\Oem\AppData\Local\Temporary Projects\Muzyka\obj\x86\Debug\Muzyka.csproj.GenerateResource.Cache
+C:\Users\Oem\AppData\Local\Temporary Projects\Muzyka\bin\Debug\Muzyka.exe
+C:\Users\Oem\AppData\Local\Temporary Projects\Muzyka\bin\Debug\Muzyka.pdb
+C:\Users\Oem\AppData\Local\Temporary Projects\Muzyka\bin\Debug\Interop.WMPLib.dll
+C:\Users\Oem\AppData\Local\Temporary Projects\Muzyka\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Oem\AppData\Local\Temporary Projects\Muzyka\obj\x86\Debug\Muzyka.exe
+C:\Users\Oem\AppData\Local\Temporary Projects\Muzyka\obj\x86\Debug\Muzyka.pdb
+C:\Users\Oem\documents\visual studio 2010\Projects\Muzyka\Muzyka\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Oem\documents\visual studio 2010\Projects\Muzyka\Muzyka\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Oem\documents\visual studio 2010\Projects\Muzyka\Muzyka\obj\x86\Debug\Muzyka.csproj.ResolveComReference.cache
+C:\Users\Oem\documents\visual studio 2010\Projects\Muzyka\Muzyka\obj\x86\Debug\Muzyka.exe
+C:\Users\Oem\documents\visual studio 2010\Projects\Muzyka\Muzyka\obj\x86\Debug\Muzyka.pdb
